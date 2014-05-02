@@ -1,5 +1,5 @@
 ---
-Name: OpenJDK
+Name: openjdk
 Cartridge-Short-Name: OPENJDK
 Display-Name: OpenJDK Cartridge
 Description: A cartridge for providing the OpenJDK runtime environment
