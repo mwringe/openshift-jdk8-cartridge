@@ -11,7 +11,7 @@ License: GPL v2 with Classpath Exception
 Licence-Url: http://openjdk.java.net/legal/gplv2+ce.html
 Vendor: Oracle
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: redhat
+Cartridge-Vendor: liveoak
 Categories:
 - service
 - embedded
