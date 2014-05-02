@@ -1,0 +1,26 @@
+---
+Name: OpenJDK
+Cartridge-Short-Name: OPENJDK
+Display-Name: OpenJDK Cartridge
+Description: A cartridge for providing the OpenJDK runtime environment
+Website: http://openjdk.java.net/
+Version: '1.8.0.5'
+Versions:
+- '1.8.0.5'
+License: GPL v2 with Classpath Exception
+Licence-Url: http://openjdk.java.net/legal/gplv2+ce.html
+Vendor: Oracle
+Cartridge-Version: 0.0.1
+Cartridge-Vendor: redhat
+Categories:
+- service
+- embedded
+Provides:
+- java
+- java-1.8.0
+- java-1.8.0-openjdk
+Scaling:
+  Min: 1
+  Max: 1
+Additional-Control-Actions:
+- threaddump
